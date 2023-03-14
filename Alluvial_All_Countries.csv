@@ -1,0 +1,101 @@
+,OTU,Sample,Abundance,Sample_ID,Country,Country_2,Kingdom,Phylum,Class,Order,Family,Genus,Species,Trophic.Mode,Guild,taxa_OTU,OTU10
+2,OTU1,Arable,8.108108108,NA,France,France,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+11,OTU24,Grassland,7.638398435,NA,France,France,Fungi,Ascomycota,c__,Unidentified,f__,g__,s__,-,-,OTU24,Unidentified
+7,OTU1891,Grassland,6.016732765,NA,France,France,Fungi,Ascomycota,c__Dothideomycetes,Capnodiales,f__Cladosporiaceae,g__Cladosporium,s__,Pathotroph-Saprotroph-Symbiotroph,Animal Pathogen-Endophyte-Lichen Parasite-Plant Pathogen-Wood Saprotroph,OTU1891,Dothideomycetes
+16,OTU4,Arable,4.954184427,NA,France,France,Fungi,Basidiomycota,c__Tremellomycetes,Tremellales,f__Tremellaceae,g__Cryptococcus,s__Cryptococcus_aerius_SH190019.07FU,Pathotroph-Saprotroph-Symbiotroph,Fungal Parasite-Undefined Saprotroph,OTU4,Tremellomycetes
+3,OTU16,Arable,4.728573938,NA,France,France,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+15,OTU4,Grassland,4.362470799,NA,France,France,Fungi,Basidiomycota,c__Tremellomycetes,Tremellales,f__Tremellaceae,g__Cryptococcus,s__Cryptococcus_aerius_SH190019.07FU,Pathotroph-Saprotroph-Symbiotroph,Fungal Parasite-Undefined Saprotroph,OTU4,Tremellomycetes
+18,OTU7,Grassland,4.354321725,NA,France,France,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+17,OTU7,Arable,3.333302512,NA,France,France,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+4,OTU16,Grassland,3.313956647,NA,France,France,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+10,OTU2,Grassland,3.194436899,NA,France,France,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+9,OTU2,Arable,3.086425461,NA,France,France,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+5,OTU18,Arable,2.718421466,NA,France,France,Fungi,Ascomycota,c__Sordariomycetes,Hypocreales,f__Stachybotryaceae,g__Stachybotrys,s__,Saprotroph,Undefined Saprotroph,OTU18,Sordariomycetes
+19,OTU72,Arable,2.694381004,NA,France,France,Fungi,Basidiomycota,c__Agaricomycetes,Cantharellales,f__Ceratobasidiaceae,g__,s__,Pathotroph-Saprotroph-Symbiotroph,Endomycorrhizal-Plant Pathogen-Undefined Saprotroph,OTU72,Agaricomycetes
+1,OTU1,Grassland,2.667463465,NA,France,France,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+13,OTU38,Arable,2.49650951,NA,France,France,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_elongata_SH180118.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU38,Mortierellomycetes
+12,OTU24,Arable,1.447050883,NA,France,France,Fungi,Ascomycota,c__,Unidentified,f__,g__,s__,-,-,OTU24,Unidentified
+14,OTU38,Grassland,0.833921878,NA,France,France,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_elongata_SH180118.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU38,Mortierellomycetes
+8,OTU1891,Arable,0.769294782,NA,France,France,Fungi,Ascomycota,c__Dothideomycetes,Capnodiales,f__Cladosporiaceae,g__Cladosporium,s__,Pathotroph-Saprotroph-Symbiotroph,Animal Pathogen-Endophyte-Lichen Parasite-Plant Pathogen-Wood Saprotroph,OTU1891,Dothideomycetes
+6,OTU18,Grassland,0.603031455,NA,France,France,Fungi,Ascomycota,c__Sordariomycetes,Hypocreales,f__Stachybotryaceae,g__Stachybotrys,s__,Saprotroph,Undefined Saprotroph,OTU18,Sordariomycetes
+20,OTU72,Grassland,0,NA,France,France,Fungi,Basidiomycota,c__Agaricomycetes,Cantharellales,f__Ceratobasidiaceae,g__,s__,Pathotroph-Saprotroph-Symbiotroph,Endomycorrhizal-Plant Pathogen-Undefined Saprotroph,OTU72,Agaricomycetes
+2,OTU1,Arable,14.8039402,NA,Germany,Germany,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+9,OTU2,Arable,12.11159974,NA,Germany,Germany,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+10,OTU2,Grassland,7.741230249,NA,Germany,Germany,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+1,OTU1,Grassland,7.598380205,NA,Germany,Germany,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+8,OTU16,Grassland,6.268011527,NA,Germany,Germany,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+19,OTU8,Arable,4.547093019,NA,Germany,Germany,Fungi,Ascomycota,c__Saccharomycetes,Saccharomycetales,f__Saccharomycetales_fam_Incertae_sedis,g__Candida,s__Candida_sake_SH175136.07FU,Saprotroph,Undefined Saprotroph,OTU8,Saccharomycetes
+7,OTU16,Arable,3.516165184,NA,Germany,Germany,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+16,OTU4,Arable,2.797858187,NA,Germany,Germany,Fungi,Basidiomycota,c__Tremellomycetes,Tremellales,f__Tremellaceae,g__Cryptococcus,s__Cryptococcus_aerius_SH190019.07FU,Pathotroph-Saprotroph-Symbiotroph,Fungal Parasite-Undefined Saprotroph,OTU4,Tremellomycetes
+3,OTU12,Arable,2.7277315,NA,Germany,Germany,Fungi,Ascomycota,c__Pezizomycetes,Pezizales,f__Pyronemataceae,g__Pseudaleuria,s__,Saprotroph,Undefined Saprotroph,OTU12,Pezizomycetes
+13,OTU38,Arable,2.378408845,NA,Germany,Germany,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_elongata_SH180118.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU38,Mortierellomycetes
+18,OTU5,Arable,2.294518977,NA,Germany,Germany,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU5,Unidentified
+5,OTU14,Arable,2.232912355,NA,Germany,Germany,Fungi,Ascomycota,c__Leotiomycetes,Unidentified,f__,g__,s__,-,-,OTU14,Leotiomycetes
+11,OTU20,Grassland,1.886862765,NA,Germany,Germany,Fungi,Ascomycota,c__Eurotiomycetes,Chaetothyriales,f__,g__,s__,-,-,OTU20,Eurotiomycetes
+14,OTU38,Grassland,1.662029216,NA,Germany,Germany,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_elongata_SH180118.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU38,Mortierellomycetes
+12,OTU20,Arable,1.658135679,NA,Germany,Germany,Fungi,Ascomycota,c__Eurotiomycetes,Chaetothyriales,f__,g__,s__,-,-,OTU20,Eurotiomycetes
+15,OTU4,Grassland,1.2906191,NA,Germany,Germany,Fungi,Basidiomycota,c__Tremellomycetes,Tremellales,f__Tremellaceae,g__Cryptococcus,s__Cryptococcus_aerius_SH190019.07FU,Pathotroph-Saprotroph-Symbiotroph,Fungal Parasite-Undefined Saprotroph,OTU4,Tremellomycetes
+4,OTU12,Grassland,1.05957468,NA,Germany,Germany,Fungi,Ascomycota,c__Pezizomycetes,Pezizales,f__Pyronemataceae,g__Pseudaleuria,s__,Saprotroph,Undefined Saprotroph,OTU12,Pezizomycetes
+17,OTU5,Grassland,0.831014608,NA,Germany,Germany,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU5,Unidentified
+6,OTU14,Grassland,0.503080592,NA,Germany,Germany,Fungi,Ascomycota,c__Leotiomycetes,Unidentified,f__,g__,s__,-,-,OTU14,Leotiomycetes
+20,OTU8,Grassland,0.103100467,NA,Germany,Germany,Fungi,Ascomycota,c__Saccharomycetes,Saccharomycetales,f__Saccharomycetales_fam_Incertae_sedis,g__Candida,s__Candida_sake_SH175136.07FU,Saprotroph,Undefined Saprotroph,OTU8,Saccharomycetes
+20,OTU9,Arable,16.42915625,NA,Spain,Spain,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU9,Sordariomycetes
+19,OTU9,Grassland,8.003365267,NA,Spain,Spain,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU9,Sordariomycetes
+13,OTU4,Arable,6.552189595,NA,Spain,Spain,Fungi,Basidiomycota,c__Tremellomycetes,Tremellales,f__Tremellaceae,g__Cryptococcus,s__Cryptococcus_aerius_SH190019.07FU,Pathotroph-Saprotroph-Symbiotroph,Fungal Parasite-Undefined Saprotroph,OTU4,Tremellomycetes
+18,OTU7,Grassland,4.61638668,NA,Spain,Spain,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+9,OTU30,Arable,4.544046381,NA,Spain,Spain,Fungi,Ascomycota,c__Dothideomycetes,Pleosporales,f__Didymellaceae,g__Phoma,s__,Pathotroph-Saprotroph-Symbiotroph,Endophyte-Dung Saprotroph-Lichen Parasite-Litter Saprotroph-Plant Pathogen-Soil Saprotroph-Wood Saprotroph,OTU30,Dothideomycetes
+5,OTU2742,Grassland,4.369419491,NA,Spain,Spain,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU2742,Unidentified
+14,OTU4,Grassland,4.339566315,NA,Spain,Spain,Fungi,Basidiomycota,c__Tremellomycetes,Tremellales,f__Tremellaceae,g__Cryptococcus,s__Cryptococcus_aerius_SH190019.07FU,Pathotroph-Saprotroph-Symbiotroph,Fungal Parasite-Undefined Saprotroph,OTU4,Tremellomycetes
+3,OTU21,Arable,3.76402381,NA,Spain,Spain,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU21,Sordariomycetes
+4,OTU21,Grassland,3.563383722,NA,Spain,Spain,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU21,Sordariomycetes
+15,OTU5,Arable,3.509548361,NA,Spain,Spain,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU5,Unidentified
+8,OTU28,Arable,3.329202717,NA,Spain,Spain,Fungi,Ascomycota,c__Dothideomycetes,Pleosporales,f__Pleosporaceae,g__,s__,Pathotroph-Saprotroph,Endophyte-Lichen Parasite-Plant Pathogen-Undefined Saprotroph,OTU28,Dothideomycetes
+12,OTU38,Arable,2.90876502,NA,Spain,Spain,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_elongata_SH180118.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU38,Mortierellomycetes
+1,OTU10,Arable,2.825783895,NA,Spain,Spain,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU10,Unidentified
+7,OTU28,Grassland,2.80891253,NA,Spain,Spain,Fungi,Ascomycota,c__Dothideomycetes,Pleosporales,f__Pleosporaceae,g__,s__,Pathotroph-Saprotroph,Endophyte-Lichen Parasite-Plant Pathogen-Undefined Saprotroph,OTU28,Dothideomycetes
+17,OTU7,Arable,2.298023943,NA,Spain,Spain,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+11,OTU38,Grassland,1.229408093,NA,Spain,Spain,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_elongata_SH180118.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU38,Mortierellomycetes
+16,OTU5,Grassland,0.914592776,NA,Spain,Spain,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU5,Unidentified
+6,OTU2742,Arable,0.452523733,NA,Spain,Spain,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU2742,Unidentified
+2,OTU10,Grassland,0.412516623,NA,Spain,Spain,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU10,Unidentified
+10,OTU30,Grassland,0.130268407,NA,Spain,Spain,Fungi,Ascomycota,c__Dothideomycetes,Pleosporales,f__Didymellaceae,g__Phoma,s__,Pathotroph-Saprotroph-Symbiotroph,Endophyte-Dung Saprotroph-Lichen Parasite-Litter Saprotroph-Plant Pathogen-Soil Saprotroph-Wood Saprotroph,OTU30,Dothideomycetes
+16,OTU3,Arable,14.84377835,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__Pezizomycetes,Pezizales,f__,g__,s__,-,-,OTU3,Pezizomycetes
+2,OTU1,Arable,14.83893989,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+14,OTU23,Grassland,7.979869785,NA,Switzerland,Switzerland,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU23,Unidentified
+11,OTU2,Arable,5.781350171,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+19,OTU7,Grassland,5.617052007,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+1,OTU1,Grassland,5.088972389,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+8,OTU16,Grassland,4.833959582,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+15,OTU3,Grassland,4.445798495,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__Pezizomycetes,Pezizales,f__,g__,s__,-,-,OTU3,Pezizomycetes
+9,OTU19,Grassland,3.811651603,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_exigua_SH214063.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU19,Mortierellomycetes
+7,OTU16,Arable,3.5998113,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+5,OTU13,Arable,2.510553882,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__,Unidentified,f__,g__,s__,-,-,OTU13,Unidentified
+4,OTU11,Grassland,2.415851416,NA,Switzerland,Switzerland,Fungi,Basidiomycota,c__Tremellomycetes,Trichosporonales,f__Trichosporonaceae,g__,s__,-,-,OTU11,Tremellomycetes
+20,OTU7,Arable,2.359956938,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+3,OTU11,Arable,2.356328096,NA,Switzerland,Switzerland,Fungi,Basidiomycota,c__Tremellomycetes,Trichosporonales,f__Trichosporonaceae,g__,s__,-,-,OTU11,Tremellomycetes
+10,OTU19,Arable,2.2099648,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_exigua_SH214063.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU19,Mortierellomycetes
+18,OTU47,Grassland,2.112318473,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU47,Mortierellomycetes
+12,OTU2,Grassland,1.091138869,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+17,OTU47,Arable,0.840681738,NA,Switzerland,Switzerland,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU47,Mortierellomycetes
+6,OTU13,Grassland,0.286607314,NA,Switzerland,Switzerland,Fungi,Ascomycota,c__,Unidentified,f__,g__,s__,-,-,OTU13,Unidentified
+13,OTU23,Arable,0.066528771,NA,Switzerland,Switzerland,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU23,Unidentified
+16,OTU3,Arable,14.84377835,NA,Sweden,Sweden,Fungi,Ascomycota,c__Pezizomycetes,Pezizales,f__,g__,s__,-,-,OTU3,Pezizomycetes
+2,OTU1,Arable,14.83893989,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+14,OTU23,Grassland,7.979869785,NA,Sweden,Sweden,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU23,Unidentified
+11,OTU2,Arable,5.781350171,NA,Sweden,Sweden,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+19,OTU7,Grassland,5.617052007,NA,Sweden,Sweden,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+1,OTU1,Grassland,5.088972389,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU1,Mortierellomycetes
+8,OTU16,Grassland,4.833959582,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+15,OTU3,Grassland,4.445798495,NA,Sweden,Sweden,Fungi,Ascomycota,c__Pezizomycetes,Pezizales,f__,g__,s__,-,-,OTU3,Pezizomycetes
+9,OTU19,Grassland,3.811651603,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_exigua_SH214063.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU19,Mortierellomycetes
+7,OTU16,Arable,3.5998113,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU16,Mortierellomycetes
+5,OTU13,Arable,2.510553882,NA,Sweden,Sweden,Fungi,Ascomycota,c__,Unidentified,f__,g__,s__,-,-,OTU13,Unidentified
+4,OTU11,Grassland,2.415851416,NA,Sweden,Sweden,Fungi,Basidiomycota,c__Tremellomycetes,Trichosporonales,f__Trichosporonaceae,g__,s__,-,-,OTU11,Tremellomycetes
+20,OTU7,Arable,2.359956938,NA,Sweden,Sweden,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU7,Sordariomycetes
+3,OTU11,Arable,2.356328096,NA,Sweden,Sweden,Fungi,Basidiomycota,c__Tremellomycetes,Trichosporonales,f__Trichosporonaceae,g__,s__,-,-,OTU11,Tremellomycetes
+10,OTU19,Arable,2.2099648,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__Mortierella_exigua_SH214063.07FU,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU19,Mortierellomycetes
+18,OTU47,Grassland,2.112318473,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU47,Mortierellomycetes
+12,OTU2,Grassland,1.091138869,NA,Sweden,Sweden,Fungi,Ascomycota,c__Sordariomycetes,Unidentified,f__,g__,s__,-,-,OTU2,Sordariomycetes
+17,OTU47,Arable,0.840681738,NA,Sweden,Sweden,Fungi,Mortierellomycota,c__Mortierellomycetes,Mortierellales,f__Mortierellaceae,g__Mortierella,s__,Saprotroph-Symbiotroph,Endophyte-Litter Saprotroph-Soil Saprotroph-Undefined Saprotroph,OTU47,Mortierellomycetes
+6,OTU13,Grassland,0.286607314,NA,Sweden,Sweden,Fungi,Ascomycota,c__,Unidentified,f__,g__,s__,-,-,OTU13,Unidentified
+13,OTU23,Arable,0.066528771,NA,Sweden,Sweden,Fungi,,c__,Unidentified,f__,g__,s__,-,-,OTU23,Unidentified
