@@ -2944,8 +2944,8 @@ ggplot()+
   geom_point(aes(x=(c(1:length(CUM_arable$cumulate))), y = (CUM_arable$mean)), size = 1, color = col_vector[3])
 
 
+########## Alluvial Plots and Niche Breadth Analysis########################
 
-#####Libraries Used. 
 library(tidyverse)
 library(microbiome)
 library(phyloseq)
@@ -2955,51 +2955,6 @@ library(EnhancedVolcano)
 library(DESeq2)
 
 
-
-#Part 0 Match sequencing samples names
-rm(list=ls())
-# OTU_pre contains irrelevant OTU data
-OTU_pre <- read.csv("DATA/otu_table.csv", row.names = 1)
-# change site names and delete unuseful data
-Primer_match <- read.csv("TABLES/Primer_Sample_assignment.csv", na.strings = c("NA","","-"))
-Primer_match <- na.omit(Primer_match)
-row.names(Primer_match) <- Primer_match$Sample.ID
-Primer_match$sequencingName <- paste("s",Primer_match$new.Plate,"_",Primer_match$F.Primer,".",Primer_match$R.Primer, sep = "")
-Name_match <- match(colnames(OTU_pre),Primer_match$sequencingName)
-OTU <- OTU_pre[,!is.na(Name_match)]
-colnames(OTU) <- row.names(Primer_match) [Name_match[!is.na(Name_match)]]
-
-# delete singletons and all-zero
-OTU <- OTU[rowSums(OTU)>1,]
-OTU <- as.matrix(OTU)
-OTU <- OTU[,order(colnames(OTU),decreasing = F)]
-OTU_pre <- OTU
-
-## import taxonomy, and delete singleton or all-zero OTUs
-otu_taxa <- read.csv("DATA/otu_taxa.csv",row.names = 1, stringsAsFactors = F)
-otu_taxa <- otu_taxa[which(rownames(otu_taxa) %in% rownames(OTU)),]
-otu_taxa_pre <- otu_taxa
-
-## import design file
-design <- read.csv("DATA/design.csv",row.names = 1, stringsAsFactors = F)
-row.names(design) <- design$Sample_ID
-
-## correct typos
-design$Treatment[design$Treatment == "High "]<- "High"
-design$Treatment[design$Treatment == "Low "]<- "Low"
-
-design$Treatment[design$Treatment == "High" | design$Treatment == "Low" ] <- "Arable"
-
-design[design$Treatment == "Organic"| design$Treatment == "Conventional","Treatment"] <- "Arable"
-design_pre <- design
-## create phyloseq object
-physeq_table<- phyloseq(otu_table(OTU, taxa_are_rows=T),
-                        tax_table(as.matrix(otu_taxa)),
-                        sample_data(design))
-
-
-########## Alluvial Plots ########################
-#### AQ ####
 AQ=subset_samples(physeq_table, Country=="France")
 AQ
 AQ<-filter_taxa(AQ, function(x) sum(x) > 0.000000000, prune=TRUE)
@@ -3770,8 +3725,3 @@ ggplot(Test5, aes(MI,Axis.1)) +
     #axis.ticks.x = element_blank(),
     #axis.text.x = element_blank()
   )
-
-
-
-
-
