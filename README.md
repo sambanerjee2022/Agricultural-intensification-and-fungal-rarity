@@ -1,3 +1,3 @@
-# Agricultural-intensification-is-linked-to-the-rarity-of-soil-fungi-across-Europe
+# Agricultural-intensification-and_Fungal-rarity
 
-Here you will have the script and input table used for the manuscript.
+Required scripts and input files used for the manuscript.
